@@ -22,7 +22,7 @@ If you want to apply the blacklist system-wide you'll need to append the content
 
 Please share this with your friends and everyone on social media. This is very important!
 
-Togather we can help Airbnb come to their senses.
+Together we can help Airbnb come to their senses.
 
 # Todo
 Feel free to submit missing hosts and changes to make the README friendlier.

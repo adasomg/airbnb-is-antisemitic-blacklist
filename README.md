@@ -1,4 +1,4 @@
-# airbnb-is-antisemitic-blacklist
+# Airbnb is antisemitic blacklist
 Protest Airbnb's [Judea and Samaria jew ban](https://www.nytimes.com/2018/11/19/world/middleeast/airbnb-west-bank.html) by adding this blacklist of Airbnb-related hosts to your favorite ad-blocker.
 
 # Installation

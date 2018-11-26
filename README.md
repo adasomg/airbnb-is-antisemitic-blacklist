@@ -21,6 +21,8 @@ If you want to apply the blacklist system-wide you'll need to append the content
 # Share and help!
 
 Please share this with your friends and everyone on social media. This is very important!
+
 Togather we can help Airbnb come to their senses.
 
+# Todo
 Feel free to submit missing hosts and make changes to make the README friendlier.

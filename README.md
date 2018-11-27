@@ -25,7 +25,8 @@ Please share this with your friends and everyone on social media. This is very i
 Together we can help Airbnb come to their senses.
 
 # Links
-[koshairbnb, a non-discriminatory alternative to Airbnb in Israel](http://koshairbnb.com/)
+- [koshairbnb, a non-discriminatory alternative to Airbnb in Israel](http://koshairbnb.com/)
+- [#boycottairbnb on twitter](https://twitter.com/search?f=tweets&q=%23boycottairbnb)
 
 # Todo
 Feel free to submit missing hosts and changes to make the README friendlier.

@@ -30,6 +30,7 @@ Together we can help Airbnb come to their senses.
 - [koshairbnb, a non-discriminatory alternative to Airbnb in Israel](http://koshairbnb.com/)
 - [#boycottairbnb on twitter](https://twitter.com/search?f=tweets&q=%23boycottairbnb)
 - [pledge your support of the boycott (a public pettiton by Likud)](https://docs.google.com/forms/d/e/1FAIpQLSddMr9pxH3892eu_F0igbiD0SYiKOsHx_3komQ0BYEJ04JVOw/viewform)
+- [Airbnb standards for Israel must be equal and nondiscriminatory - a petition by J'accuse Coalition for Justice](https://www.change.org/p/airbnb-standards-for-israel-must-be-equal-and-nondiscriminatory)
 
 # Todo
 Feel free to submit missing hosts and changes to make the README friendlier.

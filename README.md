@@ -27,6 +27,7 @@ Together we can help Airbnb come to their senses.
 # Links
 - [delete your airbnb account](https://www.airbnb.com/account-delete/reasons)
 - [boycott Airbnb on change.org](https://www.change.org/p/jerusalemsoup-gmail-com-boycott-airbnb-anti-semitism)
+- [koshnb.com As featured on Channel 10 News and Marriv, Koshnb is a Rental directory for Jewish hosts & travlers wordlwide. As an alternative to Airbnb, Koshnb was launched last week already has 100s of users. Lets all boycott the boycott.
 - [koshairbnb, a non-discriminatory alternative to Airbnb in Israel](http://koshairbnb.com/)
 - [#boycottairbnb on twitter](https://twitter.com/search?f=tweets&q=%23boycottairbnb)
 - [pledge your support of the boycott (a public pettiton by Likud)](https://docs.google.com/forms/d/e/1FAIpQLSddMr9pxH3892eu_F0igbiD0SYiKOsHx_3komQ0BYEJ04JVOw/viewform)

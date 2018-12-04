@@ -26,6 +26,7 @@ Together we can help Airbnb come to their senses.
 
 # Links
 - [delete your airbnb account](https://www.airbnb.com/account-delete/reasons)
+- [Help us Fire Back at AirBnB for joining BDS a fundraiser by Rabbi Shmuley Boteach](https://www.gofundme.com/help-us-fire-back-at-airbnb-for-joining-a-bds?fbclid=IwAR1HX_-2EK4Wglu0bKG82OGI1e9UL4qPk6JAK9BrVKVNlTtjlMuA6WbSLDU)
 - [boycott Airbnb on change.org](https://www.change.org/p/jerusalemsoup-gmail-com-boycott-airbnb-anti-semitism)
 - [koshnb.com As featured on Channel 10 News and Marriv, Koshnb is a Rental directory for Jewish hosts & travlers wordlwide. As an alternative to Airbnb, Koshnb was launched last week already and has 100s of users.](http://koshnb.com)
 - [koshairbnb, a non-discriminatory alternative to Airbnb in Israel](http://koshairbnb.com/)
